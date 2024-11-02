@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+  <Transactions>
+    <Transaction>2021.04.05 15:21:32.028,=rtl.dcp</Transaction>
+    <Transaction>2021.04.05 15:21:32.101,=E:\2008 PROG\PROGRAMLAR+\DVD 5\DELPHI\DELPHI 10.3.3RIO\componentler\PBSETUPPRINT\PBPrinterSetupDialog.pas</Transaction>
+    <Transaction>2021.04.05 15:21:35.845,=E:\2008 PROG\PROGRAMLAR+\DVD 5\DELPHI\DELPHI 10.3.3RIO\componentler\PBSETUPPRINT\PBPrinterSetupDialogReg.pas</Transaction>
+    <Transaction>2021.04.05 15:21:35.847,=designide.dcp</Transaction>
+    <Transaction>2021.04.05 15:21:35.849,=vcl.dcp</Transaction>
+    <Transaction>2021.04.05 15:21:35.851,=vclactnband.dcp</Transaction>
+    <Transaction>2021.04.05 15:21:35.854,=vclx.dcp</Transaction>
+    <Transaction>2021.04.05 15:21:35.856,=xmlrtl.dcp</Transaction>
+  </Transactions>
+</BorlandProject>
